@@ -1,0 +1,22 @@
+#title{
+    font-family: "Times New Roman";
+    font-style: "italic";
+    font-size:"40px"
+  }
+  #tribute-link{
+    font-family: "Times New Roman";
+    font-style: "italic";
+    font-size:"40px";
+    font-color: "red";
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+  }
+  body {
+    background-color: #a3d5d3;
+  }
+  tribute-info {
+    justify-content: center;
+  }
